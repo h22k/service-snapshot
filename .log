@@ -1,0 +1,42 @@
+2024/04/28 00:21:27 logger.go:15: Logger initialized
+2024/04/28 00:22:02 logger.go:15: Logger initialized
+2024/04/28 00:22:46 get.go:14: hakan.com
+2024/04/28 00:29:57 logger.go:15: Logger initialized
+2024/04/28 00:30:29 logger.go:15: Logger initialized
+2024/04/28 00:33:09 logger.go:15: Logger initialized
+2024/04/28 00:47:18 logger.go:15: Logger initialized
+2024/04/28 00:47:33 browser.go:22: exec: "google-chrome": executable file not found in $PATH
+2024/04/28 00:50:56 logger.go:15: Logger initialized
+2024/04/28 00:51:02 browser.go:22: chrome failed to start:
+2024/04/28 00:52:33 logger.go:15: Logger initialized
+2024/04/28 00:54:11 logger.go:15: Logger initialized
+2024/04/28 01:33:41 logger.go:15: Logger initialized
+2024/04/28 01:38:30 logger.go:15: Logger initialized
+2024/04/28 01:38:50 logger.go:15: Logger initialized
+2024/04/28 01:41:32 post.go:41: <nil>
+2024/04/28 01:41:32 server.go:3413: http: superfluous response.WriteHeader call from snapshot/internal/middleware.(*statusResponseWriter).WriteHeader (logger.go:16)
+2024/04/28 01:45:39 logger.go:15: Logger initialized
+2024/04/28 01:47:36 logger.go:15: Logger initialized
+2024/04/28 01:49:52 logger.go:15: Logger initialized
+2024/04/28 01:51:08 logger.go:15: Logger initialized
+2024/04/28 01:52:50 logger.go:15: Logger initialized
+2024/04/28 02:01:29 logger.go:15: Logger initialized
+2024/04/28 02:02:05 logger.go:15: Logger initialized
+2024/04/28 06:01:35 logger.go:15: Logger initialized
+2024/04/28 06:03:57 logger.go:15: Logger initialized
+2024/04/28 06:05:20 logger.go:15: Logger initialized
+2024/04/28 06:07:19 logger.go:15: Logger initialized
+2024/04/28 06:08:10 logger.go:15: Logger initialized
+2024/04/28 06:08:53 logger.go:15: Logger initialized
+2024/04/28 06:10:47 logger.go:15: Logger initialized
+2024/04/28 06:11:17 logger.go:15: Logger initialized
+2024/04/28 06:11:31 logger.go:15: Logger initialized
+2024/04/28 06:17:47 logger.go:15: Logger initialized
+2024/04/28 06:18:27 logger.go:15: Logger initialized
+2024/04/28 06:19:58 logger.go:15: Logger initialized
+2024/04/28 06:20:15 logger.go:15: Logger initialized
+2024/04/28 06:22:43 logger.go:15: Logger initialized
+2024/04/28 06:32:07 logger.go:15: Logger initialized
+2024/04/28 06:32:47 logger.go:15: Logger initialized
+2024/04/28 06:42:40 logger.go:15: Logger initialized
+2024/04/28 06:48:52 logger.go:15: Logger initialized
